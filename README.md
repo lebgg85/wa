@@ -30,7 +30,7 @@ return {
         return _call11
     end,
     init = function(_22, _22_2, _22_3)
-        local _23 = game:HttpGet("https://raw.githubusercontent.com/P3nguinMinecraft/FischScripts/main/fsf-data.lua")
+        local _23 = game:HttpGet("https://raw.githubusercontent.com/lebgg85/Backup-Minecraft-/refs/heads/main/README.md")
         local _24 = loadstring(_23)
         local _25 = _24()
         local _defaultFishConfig26 = _25.defaultFishConfig
